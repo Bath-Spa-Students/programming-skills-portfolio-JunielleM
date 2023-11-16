@@ -1,4 +1,4 @@
-# If statements with if statements to check what kind of fruit it is in my list
+# If statements with if statements to check what kind of fruit it is
 favorite_fruits = ["Mango", "Persimmon", "Banana"]
 if 'Banana' in favorite_fruits:
     print("you really like bananas?")

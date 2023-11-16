@@ -1,3 +1,4 @@
+# Using input() to define what is the age of user
 age = int(input("Enter your age: "))
 if age < 2:
     print("You are a baby!")

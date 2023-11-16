@@ -1,4 +1,4 @@
-#1st version but with input
+#1st version but with inputs
 alien_color =input("Enter the color: ")
 if alien_color == 'green':
     print("This player has earned 5 points for shooting a green alien!")
