@@ -9,7 +9,7 @@ if 'pastrami' in sandwich_orders:
     while 'pastrami' in sandwich_orders:
         sandwich_orders.remove('pastrami')
 
-# Ask the user for sandwich orders
+# Ask the user for orders
 while True:
     sandwich_order = input("Enter to order your sandwich!(or 'quit' to finish): ")
 

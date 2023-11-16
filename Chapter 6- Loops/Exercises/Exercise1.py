@@ -1,3 +1,4 @@
+# Make a list of pizza toppings
 toppings = ["Cheesy", "Hawaiian", "Pepperoni", "Double-Cheeseburger", "Mushroom"]
 
 while True:
@@ -12,10 +13,9 @@ while True:
 print("Your pizza will have the following toppings:")
 for topping in toppings:
     print(topping)
-
 text = "\nWould you like toppings on that pizza??"
 text += "\nEnter 'quit' when you are done ordering: "
-
+# Using while loop to quit the message when 'quit' is typed
 while True:
     topping = input(text)
     if topping != 'quit':

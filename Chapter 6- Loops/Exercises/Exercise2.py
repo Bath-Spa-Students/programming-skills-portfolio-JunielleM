@@ -1,3 +1,4 @@
+# Make a variable where you get asked after your done paying
 message = "And, How old are you?"
 message +="\nEnter 'quit' when you are done paying: "
 #while loop
