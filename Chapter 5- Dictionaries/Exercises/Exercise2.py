@@ -1,3 +1,4 @@
+# Print the glossary with the definition of the topics you learned
 glossary = {
     'function': 'A block of code that can work when assigned.',
     'variable': 'A variable is an information that stores codes inside the program.',

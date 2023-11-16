@@ -1,4 +1,4 @@
-#Print and loop the major rivers
+#Print and loop major rivers
 dictionary ={
     'Yangtze': 'China',
     'Amazon': 'Peru',
@@ -13,14 +13,14 @@ dictionary = {
     'Mississippi-Missouri': 'United States'
 }
 
-# Loop to print the name of each river
+# Loop to print each river
 print("Rivers:")
 for river in dictionary.keys():
     print(river)
 
 countries_river = ["China", "Peru", "United States"]
 
-# Print country then for loop
+# Print country to for loop country
 print("\nCountries:")
 for country in countries_river:
     print(country)
