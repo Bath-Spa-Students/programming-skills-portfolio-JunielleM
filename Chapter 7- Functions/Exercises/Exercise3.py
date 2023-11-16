@@ -1,3 +1,4 @@
+# Using define function to make a sized shirt
 def make_shirt(size, message):
     summary = f"You are making a {size}-sized shirt with the message: '{message}'."
     print(summary)
