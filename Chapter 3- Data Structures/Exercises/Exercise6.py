@@ -18,4 +18,4 @@ for visitors in visita:
 del visita[1]
 del visita[0]
 print(visita, "Empty List")
-
+# Then print visita to check if the list is empty
