@@ -1,3 +1,4 @@
+# Printing the text within the string parenthesis
 print ("""Twinkle, Twinkle, little star,
           How I wonder what you are!
             Up above the world so high,
